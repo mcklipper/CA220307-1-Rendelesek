@@ -31,5 +31,11 @@
             get => isWaiting; 
             set => isWaiting = value; 
         }
+
+        public string Email 
+        { 
+            get => email; 
+            set => email = value; 
+        }
     }
 }

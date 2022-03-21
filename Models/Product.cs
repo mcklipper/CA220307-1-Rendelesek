@@ -26,5 +26,11 @@
             get => quantity; 
             set => quantity = value; 
         }
+
+        public int Price 
+        {
+            get => price; 
+            set => price = value; 
+        }
     }
 }
